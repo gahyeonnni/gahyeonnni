@@ -15,9 +15,7 @@
 
 <br>
 
-<div align="center">
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gahyeonii)](https://solved.ac/gahyeonii)<br/>
-
-<div align="center"> 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gahyeonii)](https://solved.ac/gahyeonii)
+   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gahyeonnni&layout=compact)](https://github.com/gahyeonnni/github-readme-stats)
 
