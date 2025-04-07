@@ -1,11 +1,20 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gahyeonii)](https://solved.ac/gahyeonii)<br/>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gahyeonnni&layout=compact)](https://github.com/gahyeonnni/github-readme-stats)
+<h1 align="center">Carpbreadj</h1>
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=gahyeonnni&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/gahyeonnni"
-  width="600"
-  height="300"
-/>
-</a>
+<h5 align="center">
+- Yeungnam University
+<h5 align="center">
+- 42 Gyeongsan Cadet
+</h5>
 
-![gahyeonnni's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+  
+<h3 align="center">🛠 Tech Stacks🛠</h3>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/c-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black" />&nbsp
+</div>
+
+<br>
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gahyeonii)](https://solved.ac/gahyeonii)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gahyeonnni&layout=compact)](https://github.com/gahyeonnni/github-readme-stats)
+
