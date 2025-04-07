@@ -1,4 +1,4 @@
-<h1 align="center">Carpbreadj</h1>
+<h1 align="center">Gahyeon</h1>
 
 <h5 align="center">
 - Yeungnam University
@@ -10,11 +10,14 @@
 <h3 align="center">🛠 Tech Stacks🛠</h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/c-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/c-A8B9CC.svg?style=for-the-badge&logo=JAVA&logoColor=black" />&nbsp
 </div>
 
 <br>
-  
+
+<div align="center">
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gahyeonii)](https://solved.ac/gahyeonii)<br/>
+
+<div align="center"> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gahyeonnni&layout=compact)](https://github.com/gahyeonnni/github-readme-stats)
 
