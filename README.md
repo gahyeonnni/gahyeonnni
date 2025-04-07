@@ -8,8 +8,9 @@
 <h3 align="center">🛠 Tech Stacks🛠</h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/c-A8B9CC.svg?style=for-the-badge&logo=JAVA&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/Java-FFC0CB.svg?style=for-the-badge&logo=OpenJDK&logoColor=black" />&nbsp
 </div>
+
 
 <br>
 
